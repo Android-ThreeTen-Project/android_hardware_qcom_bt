@@ -62,7 +62,6 @@ LOCAL_SHARED_LIBRARIES := \
         liblog
 
 LOCAL_HEADER_LIBRARIES := \
-        generated_kernel_headers \
         libutils_headers
 
 LOCAL_MODULE := libbt-vendor
